@@ -1,0 +1,56 @@
+{
+	"id": "0001",
+	"type": "donut",
+	"name": "cake",
+	"ppu": 0.55,
+	"batters": {
+		"batter": [
+			{
+				"id": "1001",
+				"type": "Regular"
+			},
+			{
+				"id": "1002",
+				"type": "Chocolate"
+			},
+			{
+				"id": "1003",
+				"type": "Blueberry"
+			},
+			{
+				"id": "1004",
+				"type": "Devils Food"
+			}
+		]
+	},
+	"topping": [
+		{
+			"id": "5001",
+			"type": "none"
+		},
+		{
+			"id": "5002",
+			"type": "Glazed"
+		},
+		{
+			"id": "5003",
+			"type": "Sugar"
+		},
+		{
+			"id": "5004",
+			"type": "Powder Sugar"
+		},
+		{
+			"id": "5005",
+			"type": "Chocki"
+		},
+		{
+			"id": "5006",
+			"type": "Choclate"
+		},
+		{
+			"id": "5007",
+			"type": "Maple"
+		}
+	]
+}
